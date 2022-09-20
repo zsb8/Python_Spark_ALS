@@ -23,3 +23,5 @@ You can access http://node1:18080/ to view the history tasks.
 You can see one application's Spark Jobs. It used 3 executors to work.
 ![image](https://user-images.githubusercontent.com/75282285/191275856-9ce4ef9f-affe-4e78-b408-0a340797350e.png)
 
+You can see the DAG Visualization of one job in the task.
+![image](https://user-images.githubusercontent.com/75282285/191276558-961f3e7f-587e-4b1a-be57-7ac46eb249f4.png)
