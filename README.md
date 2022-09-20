@@ -17,4 +17,9 @@ You can see it used 3 machine to currency calculate.
 ![image](https://user-images.githubusercontent.com/75282285/191274515-515cc48c-4a36-462b-8df0-fdc8c4df3629.png)
 
 # Spark History Server
-http://node1:18080/
+You can access http://node1:18080/ to view the history tasks.
+![image](https://user-images.githubusercontent.com/75282285/191275669-86006980-cc76-4723-8d07-04ff7e7398b0.png)
+
+You can see one application's Spark Jobs
+![image](https://user-images.githubusercontent.com/75282285/191275856-9ce4ef9f-affe-4e78-b408-0a340797350e.png)
+
