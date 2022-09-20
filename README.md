@@ -4,7 +4,7 @@ You input a user id such as 100, then input the type as -u, then the engine will
 You input a moive id such as 200, then input the type as -m, then the engine will recommend people who most likely to wath the id=200 movie.  
 
 # Run the code
-Type this command on Linux, use *spark-submit* to run the code.
+Type this command on Linux, use **spark-submit** to run the code.
 ```
 spark-submit --master spark://node1:7077  /tmp/pycharm_project_485/01_RDD/test.py
 ```
@@ -19,7 +19,7 @@ You can see it used 3 machine to currency calculate.
 ![image](https://user-images.githubusercontent.com/75282285/191274515-515cc48c-4a36-462b-8df0-fdc8c4df3629.png)
 
 # Spark History Server
-You can access http://node1:18080/ to view the history tasks.
+You can access [the history page](http://node1:18080/) to view the history tasks.
 ![image](https://user-images.githubusercontent.com/75282285/191275669-86006980-cc76-4723-8d07-04ff7e7398b0.png)
 
 You can see one application's Spark Jobs. It used 3 executors to work.
