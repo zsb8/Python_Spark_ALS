@@ -1,5 +1,7 @@
 # Python_Spark_ALS
-Use ALS on Spark to create a recommend engine
+Use ALS on Spark to create a recommend engine.     
+You input a user id such as 100, then input the type as -u, then the engine will push the most favourite movies to this id=100 user.   
+You input a moive id such as 200, then input the type as -m, then the engine will recommend people who most likely to wath the id=200 movie.  
 
 # Run the code
 Type this command on Linux, use spark-submit to run the code.
