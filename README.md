@@ -20,6 +20,6 @@ You can see it used 3 machine to currency calculate.
 You can access http://node1:18080/ to view the history tasks.
 ![image](https://user-images.githubusercontent.com/75282285/191275669-86006980-cc76-4723-8d07-04ff7e7398b0.png)
 
-You can see one application's Spark Jobs. It used 3 nodes to work together.
+You can see one application's Spark Jobs. It used 3 executors to work.
 ![image](https://user-images.githubusercontent.com/75282285/191275856-9ce4ef9f-affe-4e78-b408-0a340797350e.png)
 
