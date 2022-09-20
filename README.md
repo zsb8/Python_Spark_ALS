@@ -4,7 +4,7 @@ You input a user id such as 100, then input the type as -u, then the engine will
 You input a moive id such as 200, then input the type as -m, then the engine will recommend people who most likely to wath the id=200 movie.  
 
 # Run the code
-Type this command on Linux, use spark-submit to run the code.
+Type this command on Linux, use *spark-submit* to run the code.
 ```
 spark-submit --master spark://node1:7077  /tmp/pycharm_project_485/01_RDD/test.py
 ```
