@@ -35,3 +35,9 @@ You can see one application's Spark Jobs. It used 3 `executors` to work.
 
 You can see the *DAG Visualization* of one job in the task.
 ![image](https://user-images.githubusercontent.com/75282285/191276558-961f3e7f-587e-4b1a-be57-7ac46eb249f4.png)
+
+# Services
+ResourceManager
+![image](https://user-images.githubusercontent.com/75282285/191279375-7b1d7998-70f6-497d-b683-66fd29a9386c.png)
+
+
