@@ -12,4 +12,4 @@ You can find the Running Applications on Spark http://node1:8080/
 ![image](https://user-images.githubusercontent.com/75282285/191274075-83e1e385-da5b-40b2-b837-5c7579ca71d0.png)
 
 You can see it used 3 machine to currency calculate. 
-![image](https://user-images.githubusercontent.com/75282285/191274224-967a9429-09bf-4e99-8ada-0b8040f76829.png)
+![image](https://user-images.githubusercontent.com/75282285/191274515-515cc48c-4a36-462b-8df0-fdc8c4df3629.png)
