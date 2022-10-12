@@ -1,6 +1,6 @@
 This is a sample code. Data is pubic.
 # Python_Spark_ALS
-Use ALS (Alternating Least Squares) on Spark to create a recommend engine. Recommend the likely favourite movies to user.
+Use ALS (Alternating Least Squares) on Spark to create a recommend engine. Recommend the likely favourite movie to our users.
 
 # Run the code
 Type this command on Linux, use **spark-submit** to run the code.
