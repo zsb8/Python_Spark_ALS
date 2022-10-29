@@ -6,7 +6,7 @@ Use ALS (Alternating Least Squares) on Spark to create a recommend engine. Recom
 Type this command on Linux, use **spark-submit** to run the code.
 ## Get most favourite movies for one user
 You input a user id such as 100, then input the type as -u, then the engine will push the most favourite movies to this id=100 user.  
-```
+```spark
 spark-submit --master spark://node1:7077  /tmp/pycharm_project_485/01_RDD/test.py
 ```
 Got the result:    
