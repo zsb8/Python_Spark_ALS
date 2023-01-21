@@ -1,4 +1,5 @@
-This is a sample code. Data is pubic.
+This a sample code, not really business code. I won't expose the company's code. 
+Data is pubic.
 # Python_Spark_ALS
 Use ALS (Alternating Least Squares) on Spark to create a recommend engine. Recommend the likely favourite movie to our users.
 
